@@ -1,0 +1,9 @@
+# my directory
+data/
+testdata/
+results/
+
+# setting dirs and files
+.vscode/
+
+
